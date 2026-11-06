@@ -1,0 +1,17 @@
+# ---- AURIX Development Studio / Eclipse 构建产物 ----
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.mdf
+*.lsl.generated
+
+# ---- 编辑器 / 系统 ----
+.DS_Store
+Thumbs.db
+*~
+*.bak
+*.log
